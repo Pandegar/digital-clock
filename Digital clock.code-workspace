@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../tic tac toe"
+		},
+		{
+			"path": "../tower-blocks"
+		},
+		{
+			"path": "../Fifteen_puzzle_maker-main"
+		}
+	],
+	"settings": {}
+}
